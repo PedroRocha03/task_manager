@@ -5,7 +5,7 @@ Guilherme Fornagiero de Carvalho RA: 22.122.016-3 <br>
 Paulo Vinicius Bessa de Brito RA: 22.122.005-6 <br>
 Pedro Augusto Bento Rocha RA: 22.122.028-8 
 
-## [cite_start]Estrutura do Projeto [cite: 141]
+## Estrutura do Projeto
 
 -   `task_manager/`: Contém o código-fonte principal da aplicação.
     -   `task.py`: Modelo de domínio (Task, Priority, Status).
@@ -19,6 +19,6 @@ Pedro Augusto Bento Rocha RA: 22.122.028-8
 
 ## Instalação
 
-[cite_start]Para instalar execute o  comando[cite: 139]:
+Para instalar execute o  comando:
 ```bash
 pip install -r requirements.txt
