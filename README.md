@@ -5,6 +5,10 @@ Guilherme Fornagiero de Carvalho RA: 22.122.016-3 <br>
 Paulo Vinicius Bessa de Brito RA: 22.122.005-6 <br>
 Pedro Augusto Bento Rocha RA: 22.122.028-8 
 
+Este é um sistema simples de gerenciamento de tarefas desenvolvido em Python, aplicando uma arquitetura com camadas separadas para domínio, persistência e lógica de negócio.
+
+O projeto utiliza `pytest` e `pytest-mock` para demonstrar testes automatizados de sistemas orientados a objetos.
+
 ## Estrutura do Projeto
 
 -   `task_manager/`: Contém o código-fonte principal da aplicação.
@@ -17,8 +21,8 @@ Pedro Augusto Bento Rocha RA: 22.122.028-8
     -   `test_repository.py`: Testes unitários para o TaskRepository, usando mocks.
 -   `requirements.txt`: Dependências do projeto.
 
-## Instalação
+## Instalação 
 
-Para instalar execute o  comando:
+Para instalar execute o comando:
 ```bash
 pip install -r requirements.txt
